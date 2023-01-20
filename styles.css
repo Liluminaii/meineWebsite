@@ -1,0 +1,24 @@
+.input-center{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: ghostwhite;
+}
+
+div{
+    display: inline-block;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.img-block{
+    display: block;
+}
+
+.children-margin > *{
+margin-bottom: 20px;
+}
